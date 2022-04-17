@@ -1,7 +1,7 @@
 # kickstarter-analysis
 Performing analysis on Kickstarter data to uncover new trends
 
-##Recomendations for Louise
+## Recomendations for Louise
 
 To conduct a successful kickstarter campaign for your play, I believe you should consider the following...
 
