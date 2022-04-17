@@ -1,6 +1,8 @@
 # kickstarter-analysis
 Performing analysis on Kickstarter data to uncover new trends
+
 ##Recomendations for Louise
+
 To conduct a successful kickstarter campaign for your play, I believe you should consider the following...
 
 * Successful campaigns had an IQR of $3,500, with the upper quartile being $5,000 and the lower quartile being $1,500
