@@ -10,13 +10,13 @@ My analysis drew upon existing data, which details various kickstarter campaigns
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Theater_Outcomes_vs_Launch](NewVolume/DataAnalyticsBootcamp/resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](resources/Theater_Outcomes_vs_Launch.png)
 
 The outcomes based on launch date chart illustrates a relatively similar trend, as it pertains to the likelihood of a kickstarter campaign succeeding versus failing, from the months of January to April and August to November. In October, the two outcomes do begin to converge meaning that the odds of succeeding versus failing have lowered. The odds of succeeding versus failing are nearly equal in December, when successful and failed campaigns converge. The data shows that campaigns launched in May through July have the best possibility of succeeding.
 
 ### Analysis of Outcomes Based on Goals
 
-![Outcomes_vs_Goals](NewVolume/DataAnalyticsBootcamp/resources/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](resources/Outcomes_vs_Goals.png)
 
 The outcomes based on the goals chart illustrates that their are particular ranges that have a greater chance of succeeding as opposed to failure. These are the goal ranges that Louise should be considering for her own kickstarter. The odds of success are greatest for goals within the ranges of 1000 to 4999, 10000 to 14999, and 35000 to 39999. The odds of success and failure are equal for goals in the 15000 to 19999 and 20000 to 24999 ranges. Failure is more prominent amongst campaigns whose goal is in the ranges of 25000 to 29999 and greater than 45000. 
 
